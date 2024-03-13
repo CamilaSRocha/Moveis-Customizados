@@ -51,3 +51,9 @@ a {
     border: 1px #FF9900 solid;
     
 }
+
+#balls {
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
